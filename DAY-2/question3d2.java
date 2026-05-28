@@ -7,7 +7,7 @@ public class question3d2 {
         int b =1;
         while(num!=0){
             int a = num % 10;
-            b += a;
+            b *= a;
             num /= 10;
         }
         System.out.println("the product of the number is "  + b );
