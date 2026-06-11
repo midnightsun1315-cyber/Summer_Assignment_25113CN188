@@ -15,7 +15,7 @@ public class question4d10 {
                     System.out.print( (char) (k +64));
                 }
                 for (int m=i-1;m>=1;m--){
-                    System.out.print( (char) (m +64));
+        System.out.print( (char) (m +64));
                 }
                  System.out.println();
             }
