@@ -14,7 +14,7 @@ public class question4d2 {
 
      }
      if(num1 == b/10 ){
-        System.out.println("th enumber is palindrome");
+        System.out.println("the number is palindrome");
      }
      else{
         System.out.println("the number is not palindrome");
