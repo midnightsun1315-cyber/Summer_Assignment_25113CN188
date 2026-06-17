@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class question4d13 {
     public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
-    System.out.println("entr the size of an array : ");
+    System.out.println("enter the size of an array : ");
       int num = sc.nextInt();
       int[] arr=new int[num];
-      System.out.println("enter the elemants : ");
+      System.out.println("enter the elements : ");
       for(int i=0;i<num;i++){
         arr[i]= sc.nextInt();
 
